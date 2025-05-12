@@ -65,7 +65,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-green-300" />
-                <span>Brasília, DF - Brasil</span>
+                <span>São Paulo, SP - Brasil</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-green-300" />
@@ -78,8 +78,8 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-green-300" />
-                <a href="tel:+556199999999" className="text-green-100 hover:text-white transition-colors">
-                  +55 (61) 9999-9999
+                <a href="tel:+551140028922" className="text-green-100 hover:text-white transition-colors">
+                  +55 (11) 4002-8922
                 </a>
               </li>
             </ul>
